@@ -1,0 +1,1757 @@
+Aaditya Ramdas	Kevin G. Jamieson
+Aaditya Ramdas	Martin J. Wainwright
+Aaditya Ramdas	Michael I. Jordan
+Aapo Hyvärinen	Motoaki Kawanabe
+Aaron C. Courville	Simon Lacoste-Julien
+Aaron Roth	Bo Waggoner
+Aarti Singh	Artur Dubrawski
+Aarti Singh	Barnabás Póczos
+Aarti Singh	Eric P. Xing
+Abdel-rahman Mohamed	Pushmeet Kohli
+Adam Lerer	Arthur Szlam
+Adam R. Klivans	Raghu Meka
+Adam Santoro	David G. T. Barrett
+Adam Santoro	Mateusz Malinowski
+Adam Santoro	Peter Battaglia
+Adam Santoro	Razvan Pascanu
+Adam Santoro	Tim Lillicrap
+Adarsh Prasad	Alexandru Niculescu-Mizil
+Adith Swaminathan	Akshay Krishnamurthy
+Adith Swaminathan	Alekh Agarwal
+Adith Swaminathan	John Langford 0001
+Adith Swaminathan	Miroslav Dudík
+Aditi Raghunathan	Gregory Valiant
+Aditi Raghunathan	James Zou
+Aditi Raghunathan	Prateek Jain 0002
+Aditya Grover	Jayesh K. Gupta
+Aditya Grover	Maruan Al-Shedivat
+Adrian Weller	Jinwoo Shin
+Adrià Puigdomènech Badia	Charles Blundell
+Adrià Puigdomènech Badia	Daan Wierstra
+Adrià Puigdomènech Badia	Demis Hassabis
+Adrià Puigdomènech Badia	Nicolas Heess
+Adrià Puigdomènech Badia	Oriol Vinyals
+Adrià Puigdomènech Badia	Peter Battaglia
+Adrià Puigdomènech Badia	Razvan Pascanu
+Adrià Puigdomènech Badia	Yujia Li
+Agnieszka Grabska-Barwinska	Razvan Pascanu
+Agnieszka Grabska-Barwinska	Yee Whye Teh
+Ahmed Hefny	Byron Boots
+Ahmed Hefny	Wen Sun 0002
+Akihiro Yabe	Naonori Kakimura
+Akihiro Yabe	Ryohei Fujimaki
+Akihiro Yabe	Shinji Ito
+Akihiro Yabe	Takuro Fukunaga
+Akiko Takeda	Junya Honda
+Akiko Takeda	Kenji Fukumizu
+Akiko Takeda	Taiji Suzuki
+Akshay Krishnamurthy	Tzu-Kuo Huang
+Akshay Krishnamurthy	Zhiwei Steven Wu
+Alban Desmaison	Frank D. Wood
+Alban Desmaison	Noah D. Goodman
+Alberto García-Durán	Mathias Niepert
+Alekh Agarwal	Hanna M. Wallach
+Alekh Agarwal	Yisong Yue
+Alessandro Lazaric	Michal Valko
+Alessandro Lazaric	Ronald Ortner
+Alessandro Rinaldo	Ryan J. Tibshirani
+Alessandro Rudi	Massimiliano Pontil
+Alex Gittens	Benjamin Recht
+Alex Gittens	Michael I. Jordan
+Alex Graves	Demis Hassabis
+Alex Graves	Marc G. Bellemare
+Alex Lamb	Yaroslav Ganin
+Alexander A. Alemi	Ben Poole
+Alexander A. Alemi	Joshua V. Dillon
+Alexander Binder	Emmanuel Müller
+Alexander G. Schwing	Svetlana Lazebnik
+Alexander Ilin	Antti Rasmus
+Alexander Ilin	Harri Valpola
+Alexander Ilin	Tele Hao
+Alexander M. Rush	Yann LeCun
+Alexander Pritzel	Adrià Puigdomènech Badia
+Alexander Pritzel	Benigno Uria
+Alexander Pritzel	Daan Wierstra
+Alexander Pritzel	Demis Hassabis
+Alexander Pritzel	Matthew Botvinick
+Alexander Pritzel	Oriol Vinyals
+Alexander Pritzel	S. M. Ali Eslami
+Alexander Pritzel	Sriram Srinivasan
+Alexandre Lacoste	Aaron C. Courville
+Alexandros G. Dimakis	Amin Karbasi
+Alexandros G. Dimakis	Joydeep Ghosh
+Alexandros G. Dimakis	Nikos Karampatziakis
+Alexandros G. Dimakis	Sahand Negahban
+Alexandros G. Dimakis	Sanjay Shakkottai
+Alexandru Niculescu-Mizil	Pradeep Ravikumar
+Alexei A. Efros	Trevor Darrell
+Alina Beygelzimer	Francesco Orabona
+Alina Beygelzimer	Hanna M. Wallach
+Alina Beygelzimer	Miroslav Dudík
+Alon Cohen	Kunal Talwar
+Alon Cohen	Yishay Mansour
+Alp Yurtsever	Madeleine Udell
+Alp Yurtsever	Olivier Fercoq
+Amaury Habrard	Alain Rakotomamonjy
+Ambuj Tewari	Susan A. Murphy
+Amir Dezfouli	Richard Nock
+Amir Globerson	Yaron Singer
+Amir-massoud Farahmand	Martha White
+Amjad Almahairi	Philip Bachman
+Ananda Theertha Suresh	Alexandros G. Dimakis
+Ananda Theertha Suresh	H. Brendan McMahan
+Ananda Theertha Suresh	Karthikeyan Shanmugam
+Ananda Theertha Suresh	Sanjay Shakkottai
+Anant Raj	Bernhard Schölkopf
+Anant Raj	Gunnar Rätsch
+Anant Raj	Martin Jaggi
+Andreas Geiger	Sebastian Nowozin
+Andreas Krause 0001	Joachim M. Buhmann
+Andrej Karpathy	Linxi Fan
+Andrej Karpathy	Percy Liang
+Andres Muñoz Medina	Sergei Vassilvitskii
+Andrew C. Miller	Alexander M. Rush
+Andrew C. Miller	David Sontag
+Andrew C. Miller	Nicholas J. Foti
+Andrew Cotter	Jeff A. Bilmes
+Andrew Gordon Wilson	Peter I. Frazier
+Andrew J. Saykin	Franco Pestilli
+Andriy Mnih	Arnaud Doucet
+Andriy Mnih	Chris J. Maddison
+Andriy Mnih	Daniel Zoran
+Andriy Mnih	Jascha Sohl-Dickstein
+André F. T. Martins	Claire Cardie
+André F. T. Martins	Mathieu Blondel
+Aniruddha Bhargava	Rebecca Willett
+Aniruddha Bhargava	Robert D. Nowak
+Anirudh Goyal	Surya Ganguli
+Anna Choromanska	David Sontag
+Anshumali Shrivastava	Richard G. Baraniuk
+Antoine Bordes	Ludovic Denoyer
+Antoine Bordes	Marc'Aurelio Ranzato
+Anton Osokin	Francis R. Bach
+Arian Maleki	Vahab S. Mirrokni
+Ariel Jaffe	Roi Weiss
+Armand Joulin	Arthur Szlam
+Armand Joulin	David Grangier
+Armand Joulin	David Lopez-Paz
+Armand Joulin	Moustapha Cissé
+Armando Solar-Lezama	Leslie Pack Kaelbling
+Arthur Guez	Adrià Puigdomènech Badia
+Arthur Guez	Daan Wierstra
+Arthur Guez	Danilo Jimenez Rezende
+Arthur Guez	David P. Reichert
+Arthur Guez	Demis Hassabis
+Arthur Guez	Karen Simonyan
+Arthur Guez	Oriol Vinyals
+Arthur Guez	Peter Battaglia
+Arthur Guez	Razvan Pascanu
+Arthur Guez	Rémi Munos
+Arthur Guez	Theophane Weber
+Arthur Guez	Thomas Degris
+Arthur Guez	Tim Harley
+Arthur Guez	Yujia Li
+Arthur Mensch	Danilo Bzdok
+Arthur Mensch	Mathieu Blondel
+Arun Sai Suggala	Eunho Yang
+Arun Sai Suggala	Manik Varma
+Arun Sai Suggala	Mladen Kolar
+Arun Sai Suggala	Prateek Jain 0002
+Arun Sai Suggala	Shou-De Lin
+Arun Venkatraman	Geoffrey J. Gordon
+Arun Venkatraman	Martial Hebert
+Aryan Mokhtari	Amin Karbasi
+Aryan Mokhtari	Hui Qian
+Aryan Mokhtari	Peilin Zhao
+Ashia C. Wilson	Alex Gittens
+Ashia C. Wilson	Benjamin Recht
+Ashia C. Wilson	Nati Srebro
+Ashkan Norouzi-Fard	Ola Svensson
+Asja Fischer	Aaron C. Courville
+Asja Fischer	Simon Lacoste-Julien
+Audrunas Gruslys	David Silver
+Audrunas Gruslys	Julien Pérolat
+Audrunas Gruslys	Thore Graepel
+Aurko Roy	Huan Xu
+Aurko Roy	Noam Shazeer
+Aurélien Lucchi	Martin Jaggi
+Aurélien Lucchi	Sebastian Nowozin
+Avinava Dubey	Barnabás Póczos
+Avinava Dubey	Ruslan Salakhutdinov
+Aviv Tamar	Igor Mordatch
+Aäron van den Oord	Demis Hassabis
+Aäron van den Oord	Erich Elsen
+Aäron van den Oord	Florian Stimberg
+Aäron van den Oord	Ivo Danihelka
+Aäron van den Oord	Karen Simonyan
+Aäron van den Oord	Nando de Freitas
+Aäron van den Oord	Rémi Munos
+Aäron van den Oord	Sergio Gomez Colmenarejo
+Aäron van den Oord	Yutian Chen
+Aäron van den Oord	Ziyu Wang 0001
+Balaji Lakshminarayanan	Alexander Pritzel
+Balaji Lakshminarayanan	Charles Blundell
+Balázs Szörényi	Shie Mannor
+Barnabás Póczos	Ruslan Salakhutdinov
+Behnam Neyshabur	Yi Zhang
+Ben Glocker	Aditya V. Nori
+Ben Glocker	Antonio Criminisi
+Ben Poole	Jon M. Kleinberg
+Ben Poole	Joshua V. Dillon
+Benigno Uria	Adrià Puigdomènech Badia
+Benigno Uria	Charles Blundell
+Benigno Uria	Daan Wierstra
+Benigno Uria	Demis Hassabis
+Benigno Uria	Oriol Vinyals
+Benigno Uria	Sriram Srinivasan
+Benjamin Moseley	Roman Garnett
+Bernhard Nessler	Sepp Hochreiter
+Bernhard Schölkopf	Martin Jaggi
+Bernhard Schölkopf	Sergey Levine
+Bernt Schiele	Luc Van Gool
+Bernt Schiele	Tinne Tuytelaars
+Bin Gu	Heng Huang
+Blake E. Woodworth	Behnam Neyshabur
+Blake E. Woodworth	Srinadh Bhojanapalli
+Bo Dai	Alexander J. Smola
+Bo Dai	Dahua Lin
+Bo Dai	James M. Rehg
+Bo Dai	Jianshu Chen
+Bo Dai	Lihong Li 0001
+Bo Dai	Lin Xiao
+Bo Dai	Sanjiv Kumar
+Bo Dai	Tuo Zhao
+Bo Dai	Xingguo Li
+Bo Waggoner	Steven Z. Wu
+Bo Wang	Alan L. Yuille
+Bohyung Han	Leonid Sigal
+Borja Balle	Odalric-Ambrym Maillard
+Borja Balle	Yu-Xiang Wang
+Bowei Yan	Kai Zhong
+Bowei Yan	Oluwasanmi Koyejo
+Bowei Yan	Pradeep Ravikumar
+Brandon Amos	J. Zico Kolter
+Branislav Kveton	Mohammad Ghavamzadeh
+Brooks Paige	Alban Desmaison
+Brooks Paige	José Miguel Hernández-Lobato
+Brooks Paige	Noah D. Goodman
+Brooks Paige	Philip H. S. Torr
+Brooks Paige	Pushmeet Kohli
+Bruno Scherrer	Shie Mannor
+Cameron Musco	David P. Woodruff
+Carl Edward Rasmussen	James Hensman
+Carl Edward Rasmussen	Jan Peters 0001
+Carlo Ciliberto	Massimiliano Pontil
+Carlton Downey	Byron Boots
+Ce Zhang	Cho-Jui Hsieh
+Ce Zhang	Huan Zhang
+Ce Zhang	Ji Liu
+Celestine Dünner	Aurélien Lucchi
+Celestine Dünner	Thomas Hofmann
+Cesar F. Caiafa	Andrew J. Saykin
+Cesar F. Caiafa	Franco Pestilli
+Chang Liu	Bo Zhang
+Chang Liu	Jiaxin Shi
+Chang Liu	Ning Chen
+Changho Suh	Sewoong Oh
+Changyou Chen	Yunchen Pu
+Chao Du	Jun Zhu
+Charles Blundell	Matthew Botvinick
+Charles Blundell	Razvan Pascanu
+Cheng Li	Varun Kanade
+Cheng Li	Zhenming Liu
+Chengtao Li	Ken-ichi Kawarabayashi
+Chengtao Li	Pushmeet Kohli
+Chi Jin	Aarti Singh
+Chi Jin	Barnabás Póczos
+Chi Jin	Jason D. Lee
+Chinmay Hegde	Soumik Sarkar
+Chiyuan Zhang	Matthew Botvinick
+Chiyuan Zhang	S. M. Ali Eslami
+Cho-Jui Hsieh	James Sharpnack
+Cho-Jui Hsieh	Kush R. Varshney
+Cho-Jui Hsieh	Lijun Zhang 0005
+Cho-Jui Hsieh	Qi Lei
+Chong Wang	Dengyong Zhou
+Chong Wang	Ji He
+Chong Wang	Li Deng 0001
+Chong Wang	Lihong Li 0001
+Chong Wang	Lin Xiao
+Chong Wang	Po-Sen Huang
+Chong Wang	Yining Wang
+Chris Dyer	Peter Dayan
+Chris Dyer	Timothy P. Lillicrap
+Chris J. Maddison	Andriy Mnih
+Chris J. Maddison	Arnaud Doucet
+Chris J. Maddison	Jascha Sohl-Dickstein
+Chris J. Maddison	Mohammad Norouzi 0002
+Chris J. Maddison	Nicolas Heess
+Chris J. Maddison	Yee Whye Teh
+Chris Junchi Li	Mengdi Wang
+Chris Junchi Li	Tong Zhang
+Chris Junchi Li	Tuo Zhao
+Christian Borgs	Christina E. Lee
+Christian Borgs	Devavrat Shah
+Christian Daniel	Duy Nguyen-Tuong
+Christian Daniel	Marc Toussaint
+Christian Daniel	Stefan Schaal
+Christoph Dann	Tor Lattimore
+Christopher C. Holmes	Christopher Yau
+Christopher C. Holmes	Michalis K. Titsias
+Christopher Yau	Dino Sejdinovic
+Christos Dimitrakakis	David C. Parkes
+Christos Louizos	David Sontag
+Christos Louizos	Joris M. Mooij
+Christos Louizos	Richard S. Zemel
+Christos Louizos	Uri Shalit
+Chun-Liang Li	Barnabás Póczos
+Chun-Liang Li	Yiming Yang
+Chun-Liang Li	Yu Cheng
+Chunhua Shen	Junzhou Huang
+Chunhua Shen	Mingkui Tan
+Chunyuan Li	Shaobo Han
+Cijo Jose	Moustapha Cissé
+Claudio Gentile	Gergely Neu
+Claudio Gentile	Gábor Lugosi
+Claudio Gentile	Mehryar Mohri
+Claudio Gentile	Purushottam Kar
+Claudio Gentile	Scott Yang
+Corinna Cortes	Claudio Gentile
+Creighton Heaukulani	Lancelot F. James
+Creighton Heaukulani	Seungjin Choi
+Csaba Szepesvári	Steffen Grünewälder
+Csaba Szepesvári	Venkatesh Saligrama
+Daan Wierstra	Rémi Munos
+Damien Garreau	Ulrike von Luxburg
+Dan Alistarh	Ce Zhang
+Dan Alistarh	Jerry Li 0001
+Dan Alistarh	Ji Liu
+Dan Alistarh	Ryota Tomioka
+Dan Garber	Nathan Srebro
+Dan Garber	Ohad Shamir
+Dan Klein	Sergey Levine
+Dan Rosenbaum	Danilo Jimenez Rezende
+Dan Rosenbaum	David Saxton
+Dan Rosenbaum	S. M. Ali Eslami
+Dan Rosenbaum	Yee Whye Teh
+Dane S. Corneil	Johanni Brea
+Daniel J. Hsu	Xiaorui Sun
+Daniel J. Mankowitz	Aviv Tamar
+Daniel J. Mankowitz	Rémi Munos
+Daniel Reichman 0001	Jonathan D. Cohen
+Daniel Reichman 0001	Tal Wagner
+Daniel Rueckert	Aditya V. Nori
+Daniel Rueckert	Antonio Criminisi
+Daniel Selsam	Percy Liang
+Daniel Soudry	Nathan Srebro
+Daniel Stefankovic	Ji Liu
+Daniel Stefankovic	Ryohei Fujimaki
+Daniel Zoran	Danilo Jimenez Rezende
+Daniel Zoran	Peter Battaglia
+Daniel Zoran	Razvan Pascanu
+Daniel Zoran	Theophane Weber
+Daniel Zoran	Yoav Goldberg
+Daniele Calandriello	Michal Valko
+Danilo Jimenez Rezende	Adrià Puigdomènech Badia
+Danilo Jimenez Rezende	Alexander Pritzel
+Danilo Jimenez Rezende	David Silver
+Danilo Jimenez Rezende	Demis Hassabis
+Danilo Jimenez Rezende	Oriol Vinyals
+Danilo Jimenez Rezende	Yujia Li
+David Abel	George Konidaris
+David Balduzzi	James Martens
+David Balduzzi	Thore Graepel
+David E. Carlson	E. J. Chichilnisky
+David G. T. Barrett	Adam Santoro
+David G. T. Barrett	Mateusz Malinowski
+David G. T. Barrett	Peter Battaglia
+David G. T. Barrett	Razvan Pascanu
+David G. T. Barrett	Tim Lillicrap
+David G. T. Barrett	Timothy P. Lillicrap
+David Grangier	Marc'Aurelio Ranzato
+David Grangier	Yann N. Dauphin
+David Lopez-Paz	Arthur Szlam
+David Lopez-Paz	Marc'Aurelio Ranzato
+David P. Reichert	Adrià Puigdomènech Badia
+David P. Reichert	Arthur Guez
+David P. Reichert	Daan Wierstra
+David P. Reichert	Danilo Jimenez Rezende
+David P. Reichert	David Silver
+David P. Reichert	Demis Hassabis
+David P. Reichert	Lars Buesing
+David P. Reichert	Nicolas Heess
+David P. Reichert	Oriol Vinyals
+David P. Reichert	Peter Battaglia
+David P. Reichert	Razvan Pascanu
+David P. Reichert	Thomas Degris
+David P. Reichert	Yujia Li
+David P. Woodruff	Lin Yang
+David Saxton	Danilo Jimenez Rezende
+David Saxton	S. M. Ali Eslami
+David Saxton	Yee Whye Teh
+David Silver	Daniel J. Mankowitz
+David Silver	David P. Reichert
+David Silver	Hado van Hasselt
+David Silver	Rémi Munos
+David Silver	Thore Graepel
+David Sontag	Max Welling
+David Sontag	Richard S. Zemel
+Debadeepta Dey	Ashish Kapoor
+Demis Hassabis	Charles Blundell
+Demis Hassabis	Daan Wierstra
+Demis Hassabis	David Silver
+Dengyong Zhou	Li Deng 0001
+Deva Ramanan	Charless C. Fowlkes
+Deva Ramanan	Martial Hebert
+Devansh Arpit	Aaron C. Courville
+Devansh Arpit	Asja Fischer
+Devansh Arpit	Nicolas Ballas
+Devansh Arpit	Simon Lacoste-Julien
+Devansh Arpit	Yoshua Bengio
+Di He	Hanqing Lu
+Di He	Wei Chen 0034
+Di Wang	Jinhui Xu 0001
+Dinggang Shen	Heng Huang
+Dmitri B. Chklovskii	Eftychios A. Pnevmatikakis
+Dmitri B. Chklovskii	Liam Paninski
+Doina Precup	Pascal Vincent
+Dumitru Erhan	Honglak Lee
+Dustin Tran	John William Paisley
+Duy Nguyen-Tuong	Marc Toussaint
+Duy Nguyen-Tuong	Stefan Schaal
+Dylan J. Foster	Alekh Agarwal
+Dylan J. Foster	Haipeng Luo
+Dylan J. Foster	Matus J. Telgarsky
+Dylan J. Foster	Mehryar Mohri
+Dylan J. Foster	Miroslav Dudík
+Dylan J. Foster	Robert E. Schapire
+Dylan J. Foster	Satyen Kale
+Dzmitry Bahdanau	José Miguel Hernández-Lobato
+Dzmitry Bahdanau	Richard E. Turner
+E. J. Chichilnisky	Liam Paninski
+Edouard Grave	Armand Joulin
+Edouard Grave	David Grangier
+Edouard Grave	Moustapha Cissé
+Edouard Grave	Nicolas Usunier
+Edouard Grave	Yann Dauphin
+Edwin V. Bonilla	Maurizio Filippone
+Edwin V. Bonilla	Richard Nock
+Elad Hazan	Wei Hu
+Elad Hazan	Yuanzhi Li
+Elman Mansimov	Jimmy Ba
+Elman Mansimov	Roger B. Grosse
+Emanuel Todorov	Sham M. Kakade
+Emilie Kaufmann	Wouter M. Koolen
+Emmanuel Müller	Marius Kloft
+Enhong Chen	Tianbao Yang
+Eric Balkanski	Amir Globerson
+Eric Balkanski	Sergei Vassilvitskii
+Eric Balkanski	Umar Syed
+Eric Battenberg	Ron J. Weiss
+Eric Battenberg	Yuxuan Wang
+Eric P. Xing	Shimon Whiteson
+Eric Price	Alexandros G. Dimakis
+Eric Tzeng	Alexei A. Efros
+Eric Tzeng	Phillip Isola
+Erich Elsen	Alex Graves
+Erich Elsen	Aäron van den Oord
+Erich Elsen	Demis Hassabis
+Erich Elsen	Florian Stimberg
+Erich Elsen	Karen Simonyan
+Erich Elsen	Koray Kavukcuoglu
+Erich Elsen	Nal Kalchbrenner
+Erich Elsen	Sander Dieleman
+Erik G. Learned-Miller	Andrew McCallum
+Erik M. Lindgren	Adam R. Klivans
+Ersin Yumer	Katerina Fragkiadaki
+Ethan Fetaya	Max Welling
+Ethan Fetaya	Raquel Urtasun
+Ethan Fetaya	Richard S. Zemel
+Ethan Fetaya	Xaq Pitkow
+Eugene Belilovsky	Kyle Kastner
+Evan W. Archer	Lars Buesing
+Evan W. Archer	Srinivas C. Turaga
+Evangelos A. Theodorou	Byron Boots
+Evangelos Theodorou	Le Song
+Fan Yang	Ruslan Salakhutdinov
+Fan Yang	Wen Dong 0001
+Fan Yang	William W. Cohen
+Fan Yang	Zhilin Yang
+Farbod Roosta-Khorasani	Prabhat
+Farbod Roosta-Khorasani	Shashanka Ubaru
+Felix X. Yu	H. Brendan McMahan
+Felix X. Yu	Pradeep Ravikumar
+Finale Doshi-Velez	George Konidaris
+Flavio Chierichetti	David P. Woodruff
+Flavio Chierichetti	Ravi Kumar 0001
+Flavio Chierichetti	Rina Panigrahy
+Flavio Chierichetti	Sergei Vassilvitskii
+Flavio Chierichetti	Silvio Lattanzi
+Flavio Chierichetti	Sreenivas Gollapudi
+Florian Stimberg	Alex Graves
+Florian Stimberg	Aäron van den Oord
+Florian Stimberg	Demis Hassabis
+Florian Stimberg	Erich Elsen
+Florian Stimberg	Koray Kavukcuoglu
+Florian Stimberg	Nal Kalchbrenner
+Florian Stimberg	Sander Dieleman
+Flávio du Pin Calmon	Kush R. Varshney
+Francesco Orabona	Chicheng Zhang
+Francis R. Bach	Laurent Massoulié
+Francis R. Bach	Sébastien Bubeck
+Francis R. Bach	Yin Tat Lee
+Francois Caron	Arnaud Doucet
+Frank D. Wood	Philip H. S. Torr
+Fred A. Hamprecht	Boaz Nadler
+Furong Huang	John Langford 0001
+Furong Huang	Robert E. Schapire
+Gal Dalal	Bruno Scherrer
+Gang Niu	Issei Sato
+Gang Wang 0014	Yousef Saad
+Garrett Bernstein	Tao Sun
+Gautam Dasarathy	Anshumali Shrivastava
+Gautam Dasarathy	Richard G. Baraniuk
+Gautam Kamath	Ankur Moitra
+Gautam Kamath	Jerry Li 0001
+Gavin Taylor	Mário A. T. Figueiredo
+Gavin Taylor	Xiaoming Yuan
+Gemma Roig	Tomaso A. Poggio
+Geoffrey J. Gordon	J. Andrew Bagnell
+Georg Ostrovski	Aäron van den Oord
+Georg Ostrovski	David Silver
+George Konidaris	Michael L. Littman
+Georgios B. Giannakis	Yousef Saad
+Georgios Exarchakis	Stéphane Mallat
+Gergely Neu	Dacheng Tao
+Gergely Neu	Gábor Lugosi
+Giulia DeSalvo	Claudio Gentile
+Giulia DeSalvo	Scott Yang
+Graham Cormode	David P. Woodruff
+Gregory Valiant	James Zou
+Grzegorz Swirszcz	Koray Kavukcuoglu
+Grzegorz Swirszcz	Max Jaderberg
+Grzegorz Swirszcz	Oriol Vinyals
+Grzegorz Swirszcz	Razvan Pascanu
+Grzegorz Swirszcz	Simon Osindero
+Guangcan Liu	Xiaotong Yuan
+Guillaume Rabusseau	Borja Balle
+Guillaume Rabusseau	Joelle Pineau
+Gunhee Kim	Sung Ju Hwang
+Gunnar Rätsch	Bernhard Schölkopf
+Gunnar Rätsch	Martin Jaggi
+Gábor Lugosi	Dacheng Tao
+Gábor Lugosi	Gergely Neu
+Hado P. van Hasselt	Tom Schaul
+Hado van Hasselt	Arthur Guez
+Hado van Hasselt	David P. Reichert
+Hado van Hasselt	Thomas Degris
+Hado van Hasselt	Tim Harley
+Haim Avron	Cameron Musco
+Haim Avron	Christopher Musco
+Haim Avron	Michael Kapralov
+Hairong Liu	Sanjeev Satheesh
+Hairong Liu	Xiangang Li
+Hairong Liu	Zhenyao Zhu
+Hal Daumé III	Nikos Karampatziakis
+Hal Daumé III	Paul Mineiro
+Han Liu	Zhaoran Wang
+Hanjun Dai	Alexander J. Smola
+Hanjun Dai	Jun Zhu
+Hanjun Dai	Yichen Wang
+Hannes Nickisch	David Bindel
+Hanqing Lu	Liwei Wang 0001
+Hanqing Lu	Tao Qin
+Hanqing Lu	Tie-Yan Liu
+Hanqing Lu	Yingce Xia
+Hanxiao Liu	Yuexin Wu
+Hao Peng	Shandian Zhe
+Hao Peng	Yuan Qi
+Harm de Vries	Aaron C. Courville
+Harm de Vries	Hugo Larochelle
+Harm de Vries	Jérémie Mary
+Harm de Vries	Olivier Pietquin
+Hervé Glotin	Richard G. Baraniuk
+Hirakendu Das	Ananda Theertha Suresh
+Hoang Minh Le 0002	Patrick Lucey
+Hong Chen	Dinggang Shen
+Honglak Lee	Pushmeet Kohli
+Hongseok Namkoong	Aman Sinha
+Hongseok Namkoong	Percy Liang
+Hongteng Xu	Lawrence Carin
+Hongyang Zhang 0001	Aarti Singh
+Hongyang Zhang 0001	Artur Dubrawski
+Hossein Esfandiari	Silvio Lattanzi
+Hsiang-Fu Yu	Qi Lei
+Huan Xu	Hongyuan Zha
+Huan Xu	Le Song
+Huan Xu	Rakshit Trivedi
+Huan Xu	Sebastian Pokutta
+Huan Xu	Shuang Li 0002
+Huan Zhang	Inderjit S. Dhillon
+Hugo Larochelle	Olivier Pietquin
+Hung Hai Bui	Dinh Q. Phung
+Hung Hai Bui	Mohammad Ghavamzadeh
+Hyeonwoo Noh	Tackgeun You
+Hyunjik Kim	Andriy Mnih
+Hyunwoo J. Kim	Johannes Fürnkranz
+Ian Davidson	Cho-Jui Hsieh
+Ian En-Hsu Yen	Arun Sai Suggala
+Ian En-Hsu Yen	Felix X. Yu
+Ian En-Hsu Yen	Sanjiv Kumar
+Ian En-Hsu Yen	Satyen Kale
+Ian Osband	Rémi Munos
+Ian Osband	Volodymyr Mnih
+Ilias Diakonikolas	Ankur Moitra
+Ilias Diakonikolas	Gautam Kamath
+Ilja Kuzborskij	Christoph H. Lampert
+Ilja Kuzborskij	Nicolò Cesa-Bianchi
+Ilker Yildirim	Josh Tenenbaum
+Ilya P. Razenshteyn	Tal Wagner
+Insu Han	Prabhanjan Kambadur
+Ioannis Mitliagkas	Leonidas J. Guibas
+Ioannis Mitliagkas	Lester W. Mackey
+Isabel Valera	Adrian Weller
+Ishaan Gulrajani	Aaron C. Courville
+Ishaan Gulrajani	Martín Arjovsky
+Ivo Danihelka	Koray Kavukcuoglu
+Ivo Danihelka	Oriol Vinyals
+J. Zico Kolter	Brandon Amos
+Jack W. Rae	Chris Dyer
+Jack W. Rae	Peter Dayan
+Jack W. Rae	Timothy P. Lillicrap
+Jackson Gorham	Chris J. Oates
+Jackson Gorham	François-Xavier Briol
+Jacob Andreas	Jon M. Kleinberg
+Jacob Andreas	Quoc V. Le
+Jacob Andreas	Sergey Levine
+Jacob D. Abernethy	Jun-Kun Wang
+Jacob R. Gardner	Andrew Gordon Wilson
+Jacob Steinhardt	Pang Wei Koh
+Jakob N. Foerster	David Sussillo
+Jakob N. Foerster	Eric P. Xing
+Jakob N. Foerster	Jan Chorowski
+Jakob N. Foerster	Jascha Sohl-Dickstein
+Jakob N. Foerster	Maruan Al-Shedivat
+Jakob N. Foerster	Philip H. S. Torr
+Jakob N. Foerster	Pushmeet Kohli
+James Bradbury	Caiming Xiong
+James Kirkpatrick	Nicolas Heess
+James Kirkpatrick	Razvan Pascanu
+James MacGlashan	Matthew E. Taylor
+James Martens	Thore Graepel
+James Sharpnack	Alessandro Rinaldo
+James Sharpnack	Ryan J. Tibshirani
+James Y. Zou	David Tse
+James Zou	Eric P. Xing
+Jamie Morgenstern	Aaron Roth
+Jan Chorowski	David Sussillo
+Jan-Willem van de Meent	Alban Desmaison
+Jan-Willem van de Meent	Noah D. Goodman
+Jan-Willem van de Meent	Philip H. S. Torr
+Jan-Willem van de Meent	Pushmeet Kohli
+Jarvis D. Haupt	David P. Woodruff
+Jarvis D. Haupt	Tong Zhang
+Jascha Sohl-Dickstein	David Sussillo
+Jascha Sohl-Dickstein	Jan Chorowski
+Jascha Sohl-Dickstein	Jeffrey Pennington
+Jason D. Lee	Aarti Singh
+Jason D. Lee	Barnabás Póczos
+Jason Pacheco	John W. Fisher III
+Jason S. Hartford	Siamak Ravanbakhsh
+Jason Yosinski	Jascha Sohl-Dickstein
+Jeffrey Pennington	Surya Ganguli
+Jeffrey Regier	Michael I. Jordan
+Jelena Luketina	Agnieszka Grabska-Barwinska
+Jelena Luketina	Razvan Pascanu
+Jelena Luketina	Yee Whye Teh
+Jennifer T. Chayes	Christina E. Lee
+Jennifer T. Chayes	Devavrat Shah
+Jerry Li 0001	Ankur Moitra
+Jerry Li 0001	Ce Zhang
+Jerry Li 0001	Dan Alistarh
+Jerry Li 0001	Ji Liu
+Jerry Li 0001	Milan Vojnovic
+Jerry Li 0001	Ryota Tomioka
+Jesse Engel	Karen Simonyan
+Jesse Engel	Mohammad Norouzi 0002
+Jesse Engel	Sander Dieleman
+Ji He	Lihong Li 0001
+Ji Liu	Ce Zhang
+Jiajun Wu 0001	Pushmeet Kohli
+Jiajun Wu 0001	Tejas D. Kulkarni
+Jialei Wang	Lin Xiao
+Jialei Wang	Mladen Kolar
+Jialei Wang	Nathan Srebro
+Jialei Wang	Peter I. Frazier
+Jialei Wang	Tong Zhang 0001
+Jialian Li	Jun Zhu
+Jiaming Song	Shengjia Zhao
+Jiaming Song	Stefano Ermon
+Jian Wu	Andrew Gordon Wilson
+Jian Zhang	Ruslan Salakhutdinov
+Jianchao Yang	Jiashi Feng
+Jianchao Yang	Nebojsa Jojic
+Jianchao Yang	Shuicheng Yan
+Jianfei Chen 0001	Chongxuan Li
+Jianmin Wang 0001	Philip S. Yu
+Jianshu Chen	Chong Wang
+Jianshu Chen	Dengyong Zhou
+Jianshu Chen	Le Song
+Jianshu Chen	Lihong Li 0001
+Jiaxiang Wu	Junzhou Huang
+Jiaxiang Wu	Tong Zhang 0001
+Jiaxin Shi	Bo Zhang
+Jiaxin Shi	Jun Zhu
+Jiaxin Shi	Ning Chen
+Jiecao Chen	Martha White
+Jiecao Chen	Xi Chen
+Jiecao Chen	Yuan Zhou
+Jihun Hamm	Yung-Kyun Noh
+Jimei Yang	Jiashi Feng
+Jimei Yang	Shuicheng Yan
+Jimei Yang	Zequn Jie
+Jinfeng Yi	Cho-Jui Hsieh
+Jinfeng Yi	Kush R. Varshney
+Jinfeng Yi	Zhi-Hua Zhou
+Jiong Zhang	Qi Lei
+Jiong Zhang	Zhao Song
+Joachim M. Buhmann	Andreas Krause 0001
+Joachim M. Buhmann	Sebastian Tschiatschek
+Joel A. Tropp	Alp Yurtsever
+Joel A. Tropp	Madeleine Udell
+Joel W. Burdick	Yisong Yue
+Joel Z. Leibo	Thore Graepel
+Joelle Pineau	Laurent Charlin
+Johannes Friedrich	Dmitri B. Chklovskii
+Johannes Friedrich	Eftychios A. Pnevmatikakis
+John C. Duchi	Aaron Sidford
+John Langford 0001	Hanna M. Wallach
+John Langford 0001	Paul Mineiro
+Jon M. Kleinberg	Jascha Sohl-Dickstein
+Jon M. Kleinberg	Kilian Q. Weinberger
+Jon M. Kleinberg	Surya Ganguli
+Jonas Mueller	David K. Gifford
+Jonathan H. Huggins	Ryan P. Adams
+Jonathan Ho	Ilya Sutskever
+Jonathan Ho	Pieter Abbeel
+Jonathan Ho	Wojciech Zaremba
+Jonathan J. Hunt	David Silver
+Jonathan J. Hunt	Hado P. van Hasselt
+Jonathan J. Hunt	Tom Schaul
+Joris M. Mooij	David Sontag
+Joris M. Mooij	Max Welling
+Joris M. Mooij	Richard S. Zemel
+Joseph Modayil	David Silver
+Joseph Modayil	Hado P. van Hasselt
+Joseph Modayil	Tom Schaul
+Joseph Wang 0001	Ofer Dekel
+Josh S. Merel	Gregory Wayne
+Josh S. Merel	Nando de Freitas
+Josh S. Merel	Nicolas Heess
+Josh S. Merel	Scott E. Reed
+Jost Tobias Springenberg	Peter Battaglia
+José Miguel Hernández-Lobato	Alán Aspuru-Guzik
+José Miguel Hernández-Lobato	Finale Doshi-Velez
+Joydeep Ghosh	Sahand Negahban
+João V. Messias	Shimon Whiteson
+Judy Hoffman	Alexei A. Efros
+Judy Hoffman	Fei-Fei Li
+Judy Hoffman	Phillip Isola
+Juho Lee	Creighton Heaukulani
+Juho Lee	Zoubin Ghahramani
+Julien Mairal	Danilo Bzdok
+Julien Pérolat	David Silver
+Julien Pérolat	Joel Z. Leibo
+Julien Pérolat	Thore Graepel
+Jun Zhu	Bo Zhang
+Jun Zhu	Le Song
+Jun Zhu	Ning Chen
+Junbo Jake Zhao	Alexander M. Rush
+Junchi Yan	Hongyuan Zha
+Junchi Yan	Le Song
+Junhong Lin	Volkan Cevher
+Junhyuk Oh	Pushmeet Kohli
+Junhyuk Oh	Yijie Guo
+Junichiro Hirayama	Motoaki Kawanabe
+Junier B. Oliva	Avinava Dubey
+Junier B. Oliva	Ruslan Salakhutdinov
+Junpei Komiyama	Akiko Takeda
+Junya Honda	Akiko Takeda
+Junzhou Huang	Mingkui Tan
+Junzhou Huang	Tong Zhang 0001
+Jérémie Mary	Aaron C. Courville
+Jérémie Mary	Hugo Larochelle
+Jérémie Mary	Olivier Pietquin
+Jörg Bornschein	Andriy Mnih
+Jörg Bornschein	Daniel Zoran
+Jörg Bornschein	Danilo Jimenez Rezende
+Kai Zhong	Peter L. Bartlett
+Kai Zhong	Zhao Song
+Kamalika Chaudhuri	Nagarajan Natarajan
+Kamalika Chaudhuri	Prateek Jain 0002
+Kamil Ciosek	Shimon Whiteson
+Kareem Amin	Nan Jiang
+Kareem Amin	Satinder P. Singh
+Karen Simonyan	Alex Graves
+Karen Simonyan	Aäron van den Oord
+Karen Simonyan	Daan Wierstra
+Karen Simonyan	David Silver
+Karen Simonyan	Demis Hassabis
+Karen Simonyan	Erich Elsen
+Karen Simonyan	Florian Stimberg
+Karen Simonyan	Ivo Danihelka
+Karen Simonyan	Nal Kalchbrenner
+Karen Simonyan	Oriol Vinyals
+Karen Simonyan	Rémi Munos
+Karen Simonyan	Sander Dieleman
+Karen Simonyan	Tim Harley
+Karen Simonyan	Volodymyr Mnih
+Karthikeyan Shanmugam	Elias Bareinboim
+Karthikeyan Shanmugam	Sanjay Shakkottai
+Kate Saenko	Alexei A. Efros
+Katrina Ligett	Aaron Roth
+Katrina Ligett	Bo Waggoner
+Katrina Ligett	Steven Z. Wu
+Katya Scheinberg	Martin Takác
+Ke Sun 0001	Frank Nielsen
+Kee-Eung Kim	Daniel D. Lee
+Kelvin Xu	Dale Schuurmans
+Ken Kansky	Miguel Lázaro-Gredilla
+Ken-ichi Kawarabayashi	Stefanie Jegelka
+Kendall Lowrey	Sham M. Kakade
+Kevin G. Jamieson	Martin J. Wainwright
+Kevin Leyton-Brown	Siamak Ravanbakhsh
+Kevin Scaman	Francis R. Bach
+Kevin Scaman	Laurent Massoulié
+Kevin Scaman	Sébastien Bubeck
+Kevin Scaman	Yin Tat Lee
+Kfir Yehuda Levy	Andreas Krause 0001
+Kfir Yehuda Levy	Joachim M. Buhmann
+Kilian Q. Weinberger	Andrew Gordon Wilson
+Kirthevasan Kandasamy	Sanjay Shakkottai
+Klaus-Robert Müller	Fei Sha
+Klaus-Robert Müller	Nico Görnitz
+Koray Kavukcuoglu	Demis Hassabis
+Koray Kavukcuoglu	Erich Elsen
+Koray Kavukcuoglu	Florian Stimberg
+Krishnakumar Balasubramanian	Han Liu 0001
+Krishnakumar Balasubramanian	Zhaoran Wang
+Krzysztof Choromanski	Adrian Weller
+Krzysztof Choromanski	Mark Rowland
+Krzysztof Choromanski	Richard E. Turner
+Krzysztof Dembczynski	Nagarajan Natarajan
+Krzysztof Dembczynski	Oluwasanmi Koyejo
+Krzysztof Marcin Choromanski	Adrian Weller
+Krzysztof Marcin Choromanski	Mark Rowland
+Krzysztof Marcin Choromanski	Vikas Sindhwani
+Kurt Cutajar	Edwin V. Bonilla
+Kush R. Varshney	Lijun Zhang 0005
+Kwang-Sung Jun	Aniruddha Bhargava
+Kwang-Sung Jun	Rebecca Willett
+Kyle Kastner	Gaël Varoquaux
+Kyle Kastner	Matthew B. Blaschko
+Lars Buesing	Adrià Puigdomènech Badia
+Lars Buesing	Arthur Guez
+Lars Buesing	Daan Wierstra
+Lars Buesing	Danilo Jimenez Rezende
+Lars Buesing	David Silver
+Lars Buesing	Demis Hassabis
+Lars Buesing	Nicolas Heess
+Lars Buesing	Oriol Vinyals
+Lars Buesing	Peter Battaglia
+Lars Buesing	Razvan Pascanu
+Lars Buesing	Yujia Li
+Lasse Espeholt	Karen Simonyan
+Lasse Espeholt	Rémi Munos
+Lasse Espeholt	Tim Harley
+Lasse Espeholt	Volodymyr Mnih
+Laurence Aitchison	Adam M. Packer
+Laurence Aitchison	Michael Häusser
+Laurence Aitchison	Srinivas C. Turaga
+Laurent Dinh	Razvan Pascanu
+Laurent Dinh	Samy Bengio
+Laurent Itti	Anima Anandkumar
+Lawrence Carin	Hongyuan Zha
+Lawrence Carin	Katherine A. Heller
+Le Song	Martin J. Wainwright
+Le Song	Michael I. Jordan
+Le Song	Santosh Vempala
+Lester W. Mackey	Chris J. Oates
+Lester W. Mackey	François-Xavier Briol
+Lester W. Mackey	Vasilis Syrgkanis
+Li-Ping Liu	David M. Blei
+Li-Ping Liu	Francisco J. R. Ruiz
+Lihong Li 0001	Dengyong Zhou
+Lihong Li 0001	Jianshu Chen
+Lihong Li 0001	Le Song
+Lihong Li 0001	Li Deng 0001
+Lihong Li 0001	Lin Xiao
+Lihong Li 0001	Mengdi Wang
+Lihong Li 0001	Niao He
+Lihong Li 0001	Yu Lu
+Lihua Lei	Michael I. Jordan
+Lin Chen 0003	Andreas Krause 0001
+Lin Xiao	Le Song
+Lin Xiao	Lihong Li 0001
+Lin Xiao	Niao He
+Lin Yang	Jarvis D. Haupt
+Lin Yang	Tong Zhang
+Lin Yang	Tuo Zhao
+Linxi Fan	Percy Liang
+Lorenzo Orecchia	Venkatesh Saligrama
+Lorenzo Rosasco	Massimiliano Pontil
+Lubor Ladicky	Marc Pollefeys
+Ludovic Denoyer	Marc'Aurelio Ranzato
+Lukasz Kaiser	Aurko Roy
+Lukasz Kaiser	Dustin Tran
+Lukasz Kaiser	Noam Shazeer
+Madeleine Udell	Volkan Cevher
+Mahdi Milani Fard	Jeff A. Bilmes
+Mahdi Soltanolkotabi	Amin Karbasi
+Manfred Opper	Stephan Mandt
+Manuel Gomez-Rodriguez	Adrian Weller
+Marc G. Bellemare	Aäron van den Oord
+Marc G. Bellemare	Koray Kavukcuoglu
+Marc G. Bellemare	Michael H. Bowling
+Marc Lanctot	Julien Pérolat
+Marc Lanctot	Thore Graepel
+Marc Peter Deisenroth	James Hensman
+Marcin Andrychowicz	Ilya Sutskever
+Marcin Andrychowicz	Jonathan Ho
+Marcin Andrychowicz	Peter Welinder
+Marcin Andrychowicz	Pieter Abbeel
+Marcin Andrychowicz	Wojciech Zaremba
+Marco Cuturi	Mathieu Blondel
+Marco Fraccaro	Alexander Pritzel
+Marco Fraccaro	Danilo Jimenez Rezende
+Marco Fraccaro	S. M. Ali Eslami
+Marco Lorenzi	Maurizio Filippone
+Maria-Florina Balcan	Travis Dick
+Mario Lucic	S. Hamed Hassani
+Mark K. Ho	Matthew E. Taylor
+Mark Rowland	Adrian Weller
+Mark Rowland	Vikas Sindhwani
+Mark Rowland	Zoubin Ghahramani
+Mark van der Wilk	James Hensman
+Martha White	Csaba Szepesvári
+Martial Hebert	Byron Boots
+Martin A. Riedmiller	Peter Battaglia
+Martín Arjovsky	Aaron C. Courville
+Martín Arjovsky	Léon Bottou
+Martín Arjovsky	Soumith Chintala
+Maruan Al-Shedivat	Jayesh K. Gupta
+Maruan Al-Shedivat	Shimon Whiteson
+Maryam Fazel	Rong Ge 0001
+Maryam Fazel	Sham Kakade
+Masaaki Imaizumi	Takanori Maehara
+Masashi Sugiyama	Daniel D. Lee
+Masashi Sugiyama	Kee-Eung Kim
+Masrour Zoghi	Branislav Kveton
+Masrour Zoghi	Csaba Szepesvári
+Masrour Zoghi	Mohammad Ghavamzadeh
+Masrour Zoghi	Zheng Wen
+Mateusz Malinowski	Peter Battaglia
+Mateusz Malinowski	Razvan Pascanu
+Mateusz Malinowski	Tim Lillicrap
+Mathieu Blondel	Claire Cardie
+Mathieu Salzmann	Ian D. Reid 0001
+Matt J. Kusner	Adrian Weller
+Matt J. Kusner	Brooks Paige
+Matt J. Kusner	José Miguel Hernández-Lobato
+Matt J. Kusner	Ricardo Silva
+Matt J. Kusner	Varun Kanade
+Matteo Hessel	Daniel J. Mankowitz
+Matteo Hessel	David P. Reichert
+Matteo Hessel	Rémi Munos
+Matteo Hessel	Thomas Degris
+Matteo Hessel	Tim Harley
+Matteo Pirotta	Alessandro Lazaric
+Matteo Pirotta	Carlo D'Eramo
+Matteo Pirotta	Emma Brunskill
+Matteo Pirotta	Ronald Ortner
+Matthew A. Smith	Byron M. Yu
+Matthew Botvinick	Charles Blundell
+Matthew Botvinick	Nando de Freitas
+Matthew E. Taylor	Michael L. Littman
+Matthew Joseph	Jamie Morgenstern
+Matthew W. Hoffman	Jascha Sohl-Dickstein
+Matthew W. Hoffman	Matthew Botvinick
+Matthew W. Hoffman	Timothy P. Lillicrap
+Max Jaderberg	Alex Graves
+Max Jaderberg	David Silver
+Max Jaderberg	Grzegorz Swirszcz
+Max Jaderberg	Oriol Vinyals
+Max Jaderberg	Razvan Pascanu
+Max Jaderberg	Simon Osindero
+Max Jaderberg	Yee Whye Teh
+Max Simchowitz	Moritz Hardt
+Max Welling	Richard S. Zemel
+Maya R. Gupta	Jeff A. Bilmes
+Mehrdad Farajtabar	Huan Xu
+Mehrdad Farajtabar	Junchi Yan
+Mehrdad Farajtabar	Mohammad Ghavamzadeh
+Mehrdad Farajtabar	Rakshit Trivedi
+Mehrdad Farajtabar	Yinlam Chow
+Mehryar Mohri	Karthik Sridharan
+Meisam Razaviyayn	Shahin Shahrampour
+Mengdi Wang	Tong Zhang
+Mengye Ren	Raquel Urtasun
+Mengye Ren	Roger B. Grosse
+Michael Chertkov	Adrian Weller
+Michael Eickenberg	Georgios Exarchakis
+Michael Eickenberg	Stéphane Mallat
+Michael I. Jordan	Aarti Singh
+Michael I. Jordan	Barnabás Póczos
+Michael I. Jordan	Jon McAuliffe
+Michael J. Kearns	Jamie Morgenstern
+Michael J. Kearns	Zhiwei Steven Wu
+Michael Kapralov	Cameron Musco
+Michael Kapralov	Christopher Musco
+Michael M. Bronstein	Xavier Bresson
+Michael Mitzenmacher	Alexander M. Rush
+Michael Tschannen	Anima Anandkumar
+Michael Tschannen	Animashree Anandkumar
+Michael Tschannen	Gunnar Rätsch
+Michael Tschannen	Laurent Itti
+Michael Tschannen	Luc J. Van Gool
+Michael Tschannen	Martin Jaggi
+Miguel Lázaro-Gredilla	D. Scott Phoenix
+Miguel Lázaro-Gredilla	Dileep George
+Miguel Lázaro-Gredilla	Xinghua Lou
+Mikhail Yurochkin	Dinh Q. Phung
+Mikhail Yurochkin	Hung Hai Bui
+Miltiadis Allamanis	Pushmeet Kohli
+Mingjun Zhong	Gerhard Neumann
+Mingsheng Long	Philip S. Yu
+Minmin Chen	Jeffrey Pennington
+Miroslav Dudík	Haipeng Luo
+Miroslav Dudík	Hal Daumé III
+Miroslav Dudík	Hanna M. Wallach
+Miroslav Dudík	Jennifer Wortman Vaughan
+Miroslav Dudík	Robert E. Schapire
+Miroslav Dudík	Ryan M. Rogers
+Miroslav Dudík	Yisong Yue
+Misha Denil	Jascha Sohl-Dickstein
+Misha Denil	Matthew Botvinick
+Misha Denil	Timothy P. Lillicrap
+Mladen Kolar	Nathan Srebro
+Mladen Kolar	Pradeep Ravikumar
+Mladen Kolar	Tong Zhang 0001
+Mo Yu	Thomas S. Huang
+Mo Yu	Xiaoxiao Guo
+Moein Falahatgar	Ananda Theertha Suresh
+Mohammad Emtiyaz Khan	Yarin Gal
+Mohammad Ghavamzadeh	Benjamin Van Roy
+Mohammad Ghavamzadeh	Branislav Kveton
+Mohammad Ghavamzadeh	Zheng Wen
+Mohammad Gheshlaghi Azar	Ian Osband
+Mohammad Norouzi 0002	Andriy Mnih
+Mohammad Norouzi 0002	Arnaud Doucet
+Mohammad Norouzi 0002	Karen Simonyan
+Mohammad Norouzi 0002	Kelvin Xu
+Mohammad Norouzi 0002	Yee Whye Teh
+Moritz Hardt	Bernhard Schölkopf
+Moritz Hardt	Dominik Janzing
+Moustapha Cissé	Armand Joulin
+Moustapha Cissé	David Grangier
+Moustapha Cissé	Edouard Grave
+Moustapha Cissé	François Fleuret
+Moustapha Cissé	Joseph Keshet
+Moustapha Cissé	Yann Dauphin
+Murat A. Erdogdu	Yash Deshpande
+Murat Kocaoglu	Elias Bareinboim
+Mário A. T. Figueiredo	Tom Goldstein
+Mário A. T. Figueiredo	Xiaoming Yuan
+Nadav Cohen	Elad Hazan
+Nal Kalchbrenner	Demis Hassabis
+Nal Kalchbrenner	Erich Elsen
+Nal Kalchbrenner	Florian Stimberg
+Nal Kalchbrenner	Karen Simonyan
+Nal Kalchbrenner	Nando de Freitas
+Nal Kalchbrenner	Sander Dieleman
+Nal Kalchbrenner	Sergio Gomez Colmenarejo
+Nal Kalchbrenner	Yutian Chen
+Nal Kalchbrenner	Ziyu Wang 0001
+Nan Jiang	Akshay Krishnamurthy
+Nan Jiang	Alekh Agarwal
+Nan Jiang	Hal Daumé III
+Nan Jiang	John Langford 0001
+Nan Jiang	Miroslav Dudík
+Nan Jiang	Robert E. Schapire
+Nan Jiang	Yisong Yue
+Nando de Freitas	Gregory Wayne
+Nando de Freitas	Jascha Sohl-Dickstein
+Nando de Freitas	Nicolas Heess
+Nati Srebro	Benjamin Recht
+Nebojsa Jojic	Jiashi Feng
+Nebojsa Jojic	Shuicheng Yan
+Nenghai Yu	Zhiming Ma
+Niao He	Jianshu Chen
+Nicholas J. Foti	Ryan P. Adams
+Nico Görnitz	Alexander Binder
+Nico Görnitz	Emmanuel Müller
+Nico Görnitz	Robert A. Vandermeulen
+Nico S. Gorbach	Joachim M. Buhmann
+Nico S. Gorbach	Stefan Bauer
+Nicolas Ballas	Asja Fischer
+Nicolas Ballas	Simon Lacoste-Julien
+Nicolas Ballas	Yoshua Bengio
+Nicolas Courty	Alain Rakotomamonjy
+Nicolas Heess	Andriy Mnih
+Nicolas Heess	Arnaud Doucet
+Nicolas Heess	Demis Hassabis
+Nicolas Heess	Jost Tobias Springenberg
+Nicolas Heess	Mohammad Norouzi 0002
+Nicolas Heess	Razvan Pascanu
+Nicolas Heess	Simon Osindero
+Nicolas Heess	Yujia Li
+Nicolas Usunier	Guillaume Obozinski
+Nicolas Usunier	Ludovic Denoyer
+Nicolas Usunier	Marc'Aurelio Ranzato
+Nicolò Cesa-Bianchi	Gergely Neu
+Nicolò Colombo	Ricardo Silva
+Nika Haghtalab	Patrick Jaillet
+Nikolay Jetchev	Sepp Hochreiter
+Nikos Karampatziakis	John Langford 0001
+Nilesh Tripuraneni	Adrian Weller
+Nilesh Tripuraneni	Mark Rowland
+Nilesh Tripuraneni	Richard E. Turner
+Ning Chen	Bo Zhang
+Nir Rosenfeld	Eric Balkanski
+Nir Rosenfeld	Yaron Singer
+Niru Maheswaranathan	Matthew W. Hoffman
+Niru Maheswaranathan	Misha Denil
+Niru Maheswaranathan	Nando de Freitas
+Niru Maheswaranathan	Sergio Gomez Colmenarejo
+Noah D. Goodman	Frank D. Wood
+Noah D. Goodman	Philip H. S. Torr
+Noah D. Goodman	Pushmeet Kohli
+Noam Shazeer	Dustin Tran
+Noam Shazeer	Lukasz Kaiser
+Noga Alon	Amir Yehudayoff
+Noga Alon	Daniel Reichman 0001
+Noga Alon	Jonathan D. Cohen
+Noga Alon	Shay Moran
+Noga Alon	Tal Wagner
+Novi Quadrianto	Yusu Wang
+Ofer Dekel	Nika Haghtalab
+Ofer Dekel	Patrick Jaillet
+Ofer Dekel	Venkatesh Saligrama
+Olivier Bachem	S. Hamed Hassani
+Olivier Fercoq	Volkan Cevher
+Olivier Pietquin	Aaron C. Courville
+Olivier Sigaud	Pierre-Yves Oudeyer
+Oluwasanmi Koyejo	Kai Zhong
+Oriol Vinyals	David Silver
+Oriol Vinyals	Demis Hassabis
+Oriol Vinyals	Erich Elsen
+Oriol Vinyals	Florian Stimberg
+Oriol Vinyals	George E. Dahl
+Oriol Vinyals	Nicolas Heess
+Oriol Vinyals	Peter Battaglia
+Oriol Vinyals	Razvan Pascanu
+Oriol Vinyals	Rémi Munos
+Oriol Vinyals	Sander Dieleman
+Oriol Vinyals	Yujia Li
+Pang Wei Koh	Percy Liang
+Pang Wei Koh	Percy S. Liang
+Paul Weng	Shie Mannor
+Pavel Serdyukov	Maarten de Rijke
+Peilin Zhao	Hui Qian
+Pengtao Xie	Aarti Singh
+Pengtao Xie	James Zou
+Pengtao Xie	Wei Wu
+Pengtao Xie	Yaoliang Yu
+Pengtao Xie	Yi Zhou
+Percy Liang	Martin J. Wainwright
+Percy S. Liang	Gregory Valiant
+Percy S. Liang	John C. Duchi
+Peter Battaglia	Daan Wierstra
+Peter Battaglia	David Silver
+Peter Battaglia	Demis Hassabis
+Peter Battaglia	Razvan Pascanu
+Peter Battaglia	Tim Lillicrap
+Peter Carr 0001	Patrick Lucey
+Peter Dayan	Timothy P. Lillicrap
+Peter L. Bartlett	David P. Helmbold
+Peter L. Bartlett	Dylan J. Foster
+Peter L. Bartlett	Inderjit S. Dhillon
+Peter L. Bartlett	Matus J. Telgarsky
+Peter L. Bartlett	Michael I. Jordan
+Peter L. Bartlett	Victor Gabillon
+Peter Richtárik	Katya Scheinberg
+Peter Welinder	Pieter Abbeel
+Peter Welinder	Wojciech Zaremba
+Philip Bachman	Aaron C. Courville
+Philip H. S. Torr	Shimon Whiteson
+Philip S. Thomas	Peter Stone
+Philipp Moritz	Roy Fox
+Phillip Isola	Alexei A. Efros
+Phillip Isola	Kate Saenko
+Phillip Isola	Trevor Darrell
+Pierre-Luc Bacon	Doina Precup
+Pierre-Luc Bacon	Pascal Vincent
+Pieter Abbeel	Igor Mordatch
+Pieter Abbeel	Wojciech Zaremba
+Pieter-Jan Kindermans	Alexandre Tkatchenko
+Pieter-Jan Kindermans	Fei Sha
+Pieter-Jan Kindermans	Klaus-Robert Müller
+Pieter-Jan Kindermans	Quoc V. Le
+Piotr Indyk	Tal Wagner
+Po-Sen Huang	Dengyong Zhou
+Po-Sen Huang	Li Deng 0001
+Poorya Mianjy	Nati Srebro
+Poorya Mianjy	René Vidal
+Prabhanjan Kambadur	Jinwoo Shin
+Prabhat	Michael W. Mahoney
+Praneeth Netrapalli	Michael I. Jordan
+Prateek Jain 0002	Peter L. Bartlett
+Pratik Jawanpuria	Bamdev Mishra
+Purnamrita Sarkar	Lizhen Lin
+Purushottam Kar	Giovanni Zappella
+Pushmeet Kohli	Aäron van den Oord
+Pushmeet Kohli	Bill Freeman
+Pushmeet Kohli	Charles A. Sutton
+Pushmeet Kohli	Frank D. Wood
+Pushmeet Kohli	Josh Tenenbaum
+Pushmeet Kohli	Shimon Whiteson
+Qi Lei	Alexandros G. Dimakis
+Qi Lei	Ian En-Hsu Yen
+Qi Lei	Nikos Karampatziakis
+Qi Lei	Pradeep Ravikumar
+Qi Meng	Nenghai Yu
+Qiang Liu	Jennifer Neville
+Qiang Liu	Jian Peng
+Qiang Liu	Vinayak Rao
+Qiang Qiu	Xiuyuan Cheng
+Qihang Lin	Lijun Zhang 0005
+Qin Zhang 0001	Yuan Zhou
+Qing Qu	Yonina C. Eldar
+Qingshan Liu 0001	Dimitris N. Metaxas
+Qingshan Liu 0001	Xiaotong Yuan
+Quanming Yao	James Tin-Yau Kwok
+Quentin Berthet	Vianney Perchet
+Qunwei Li	Yi Zhou
+Qunwei Li	Yingbin Liang
+Quoc Tran-Dinh	Olivier Fercoq
+Quoc V. Le	Jon M. Kleinberg
+Quoc V. Le	Mohammad Norouzi 0002
+Rajat Sen	Alexandros G. Dimakis
+Rajat Sen	Ananda Theertha Suresh
+Rajat Sen	Karthikeyan Shanmugam
+Rajat Sen	Kirthevasan Kandasamy
+Rajesh Ranganath	John William Paisley
+Rajiv Khanna	Alexandros G. Dimakis
+Rajiv Khanna	Sahand Negahban
+Rakshit Trivedi	Hanjun Dai
+Rakshit Trivedi	Hongyuan Zha
+Rakshit Trivedi	Shuang Li 0002
+Raman Arora	René Vidal
+Raquel Urtasun	Roger B. Grosse
+Rashish Tandon	Nikos Karampatziakis
+Rashish Tandon	Qi Lei
+Ravi Kumar 0001	David P. Woodruff
+Ravi Kumar 0001	Rina Panigrahy
+Ravi Kumar 0001	Silvio Lattanzi
+Razvan Pascanu	Daan Wierstra
+Razvan Pascanu	David Silver
+Razvan Pascanu	Demis Hassabis
+Razvan Pascanu	Matthew Botvinick
+Razvan Pascanu	Peter Battaglia
+Razvan Pascanu	Samy Bengio
+Razvan Pascanu	Tim Lillicrap
+Rebecca Willett	Robert D. Nowak
+Regina Barzilay	Tommi S. Jaakkola
+Renjie Liao	Ethan Fetaya
+Renjie Liao	Xaq Pitkow
+Riad Akrour	Jan Peters 0001
+Ricardo Henao	Shaobo Han
+Richard E. Turner	Adrian Weller
+Richard E. Turner	Bernhard Schölkopf
+Richard E. Turner	Sergey Levine
+Richard Nock	Robert C. Williamson
+Richard S. Zemel	Max Welling
+Rina Panigrahy	David P. Woodruff
+Risi Kondor	Shubhendu Trivedi
+Rizal Fathony	Xinhua Zhang
+Robert A. Vandermeulen	Alexander Binder
+Robert A. Vandermeulen	Emmanuel Müller
+Robert A. Vandermeulen	Marius Kloft
+Robert D. Nowak	Laura Balzano
+Robert D. Nowak	Rebecca Willett
+Robert Nishihara	Philipp Moritz
+Robert Nishihara	Roy Fox
+Roi Weiss	Yuval Kluger
+Rong Ge 0001	Behnam Neyshabur
+Rong Ge 0001	Michael I. Jordan
+Rong Ge 0001	Yi Zhang
+Rong Ge 0001	Yingyu Liang
+Roy Fox	Michael I. Jordan
+Ruoyu Sun	Yixuan Li
+Rupesh Kumar Srivastava	Jan Koutník
+Ruslan Salakhutdinov	Taylor Berg-Kirkpatrick
+Ryan M. Rogers	Jennifer Wortman Vaughan
+Ryan P. Adams	Tamara Broderick
+Ryohei Fujimaki	Ji Liu
+Ryohei Fujimaki	Lawrence Carin
+Ryota Tomioka	Milan Vojnovic
+Rémi Bardenet	Michal Valko
+Rémi Flamary	Alain Rakotomamonjy
+Rémi Munos	David Silver
+Rémi Munos	Hado P. van Hasselt
+Rémi Munos	Jonathan J. Hunt
+Rémi Munos	Karen Simonyan
+Rémi Munos	Koray Kavukcuoglu
+Rémi Munos	Tim Harley
+Rémi Munos	Volodymyr Mnih
+Róbert Busa-Fekete	Shie Mannor
+S. Hamed Hassani	Amin Karbasi
+S. Hamed Hassani	Mahdi Soltanolkotabi
+S. M. Ali Eslami	Matthew Botvinick
+S. M. Ali Eslami	Oriol Vinyals
+Sabyasachi Chatterjee	Rina Foygel Barber
+Sainbayar Sukhbaatar	Adam Lerer
+Samy Bengio	Aurko Roy
+Samy Bengio	Yoshua Bengio
+Sander Dieleman	Alex Graves
+Sander Dieleman	Demis Hassabis
+Sander Dieleman	Erich Elsen
+Sander Dieleman	Karen Simonyan
+Sander Dieleman	Mohammad Norouzi 0002
+Sander Dieleman	Nal Kalchbrenner
+Sanjeev Arora	Behnam Neyshabur
+Sanjeev Arora	Elad Hazan
+Sanjeev Arora	Nadav Cohen
+Sanjeev Arora	Yi Zhang
+Sanjeev Arora	Yingyu Liang
+Sanjiv Kumar	H. Brendan McMahan
+Sanjiv Kumar	Le Song
+Sanjiv Kumar	Niao He
+Sanjiv Kumar	Pradeep Ravikumar
+Santosh Vempala	Bo Xie 0002
+Satinder P. Singh	Pushmeet Kohli
+Satyen Kale	Felix X. Yu
+Satyen Kale	Karthik Sridharan
+Satyen Kale	Mehryar Mohri
+Satyen Kale	Pradeep Ravikumar
+Satyen Kale	Sanjiv Kumar
+Satyen Kale	Zohar S. Karnin
+Scott E. Reed	Aäron van den Oord
+Scott E. Reed	Gregory Wayne
+Scott E. Reed	Nal Kalchbrenner
+Scott E. Reed	Nando de Freitas
+Scott E. Reed	Nicolas Heess
+Scott E. Reed	Sergio Gomez Colmenarejo
+Scott E. Reed	Yutian Chen
+Scott E. Reed	Ziyu Wang 0001
+Sebastian Nowozin	Andreas Geiger
+Sebastian Nowozin	Thomas Hofmann
+Sebastian Pokutta	Yi Zhou
+Sergio Gomez Colmenarejo	Jascha Sohl-Dickstein
+Sergio Gomez Colmenarejo	Matthew Botvinick
+Sergio Gomez Colmenarejo	Timothy P. Lillicrap
+Sergio Gomez Colmenarejo	Yutian Chen
+Sergio Gomez Colmenarejo	Ziyu Wang 0001
+Shahin Jabbari	Jamie Morgenstern
+Shahin Jabbari	Matthew Joseph
+Shahin Jabbari	Michael J. Kearns
+Shakir Mohamed	Oriol Vinyals
+Shali Jiang	Benjamin Moseley
+Shali Jiang	Gustavo Malkomes
+Shali Jiang	Roman Garnett
+Sham M. Kakade	Michael I. Jordan
+Sham M. Kakade	Percy S. Liang
+Shashanka Ubaru	Michael W. Mahoney
+Shashanka Ubaru	Prabhat
+Shengjia Zhao	Jiaming Song
+Shinichi Nakajima	Klaus-Robert Müller
+Shinichi Nakajima	Nico Görnitz
+Shinji Ito	Akihiro Yabe
+Shinji Ito	Ken-ichi Kawarabayashi
+Shinji Ito	Naonori Kakimura
+Shinji Ito	Takuro Fukunaga
+Shipra Agrawal 0001	Csaba Szepesvári
+Shipra Agrawal 0001	Morteza Zadimoghaddam
+Shipra Agrawal 0001	Steffen Grünewälder
+Shipra Agrawal 0001	Vahab S. Mirrokni
+Shiva Prasad Kasiviswanathan	Nina Mishra
+Shixiang Gu	Bernhard Schölkopf
+Shixiang Gu	Dzmitry Bahdanau
+Shixiang Gu	José Miguel Hernández-Lobato
+Shixiang Gu	Tim Lillicrap
+Shuai Li	Purushottam Kar
+Shusen Wang	Alex Gittens
+Shusen Wang	Michael W. Mahoney
+Si Si	Huan Zhang
+Siamak Ravanbakhsh	Alexander J. Smola
+Silvio Lattanzi	David P. Woodruff
+Silvio Lattanzi	Rina Panigrahy
+Silvio Lattanzi	Sergei Vassilvitskii
+Simon Osindero	David Silver
+Simon Osindero	Grzegorz Swirszcz
+Simon Osindero	Max Jaderberg
+Simon Osindero	Nicolas Heess
+Simon Osindero	Razvan Pascanu
+Simon Osindero	Tom Schaul
+Simon S. Du	Aarti Singh
+Simon S. Du	Chi Jin
+Simon S. Du	Dengyong Zhou
+Simon S. Du	Jason D. Lee
+Simon S. Du	Jianshu Chen
+Simon S. Du	Lihong Li 0001
+Simon S. Du	Lin Xiao
+Simon S. Du	Michael I. Jordan
+Simon S. Du	Quanquan Gu
+Simon S. Du	Yining Wang
+Sivan Sabato	Roi Weiss
+Sivaraman Balakrishnan	Artur Dubrawski
+Soheil Feizi	David Tse
+Soheil Mohajer	Changho Suh
+Song Han	Yong Yu
+Song Liu 0002	Akiko Takeda
+Songbai Yan	Chicheng Zhang
+Soumith Chintala	Léon Bottou
+Soumya Ghosh	Finale Doshi-Velez
+Sreenivas Gollapudi	David P. Woodruff
+Sreenivas Gollapudi	Ravi Kumar 0001
+Sreenivas Gollapudi	Rina Panigrahy
+Sreenivas Gollapudi	Silvio Lattanzi
+Sriram Srinivasan	Adrià Puigdomènech Badia
+Sriram Srinivasan	Charles Blundell
+Sriram Srinivasan	Daan Wierstra
+Sriram Srinivasan	Demis Hassabis
+Sriram Srinivasan	Oriol Vinyals
+Stefan Bauer	Joachim M. Buhmann
+Stefan Bauer	Nico S. Gorbach
+Stefan Schaal	Joseph J. Lim
+Stefan Schaal	Marc Toussaint
+Stefan Schaal	Sergey Levine
+Stefanie Jegelka	Pushmeet Kohli
+Stephen H. Bach	Christopher Ré
+Stephen Mussmann	Percy Liang
+Stephen Tu	Alex Gittens
+Stephen Tu	Ashia C. Wilson
+Stephen Tu	Benjamin Recht
+Stephen Tu	Michael I. Jordan
+Steven C. H. Hoi	Tong Zhang
+Sudipto Guha	Shiva Prasad Kasiviswanathan
+Sungsoo Ahn	Adrian Weller
+Sunil Kumar Gupta 0001	Vu Nguyen 0001
+Suriya Gunasekar	Behnam Neyshabur
+Suriya Gunasekar	Blake E. Woodworth
+Suriya Gunasekar	Daniel Soudry
+Suriya Gunasekar	Nathan Srebro
+Suriya Gunasekar	Nati Srebro
+Suriya Gunasekar	Srinadh Bhojanapalli
+Susan A. Murphy	James M. Rehg
+Sébastien Bubeck	Laurent Massoulié
+Sébastien Bubeck	Yuanzhi Li
+Taifeng Wang	Nenghai Yu
+Takanori Maehara	Kohei Hayashi
+Takuro Fukunaga	Ken-ichi Kawarabayashi
+Tal Wagner	Jonathan D. Cohen
+Tal Wagner	Nina Mishra
+Tal Wagner	Shiva Prasad Kasiviswanathan
+Tal Wagner	Sudipto Guha
+Tameem Adel	Adrian Weller
+Tameem Adel	Zoubin Ghahramani
+Tao Qin	Wei Chen 0034
+Tatsunori B. Hashimoto	Hongseok Namkoong
+Tatsunori B. Hashimoto	John C. Duchi
+Tatsunori B. Hashimoto	Percy Liang
+Tatsunori B. Hashimoto	Percy S. Liang
+Tejas D. Kulkarni	Ilker Yildirim
+Tele Hao	Antti Rasmus
+Tele Hao	Harri Valpola
+Tengyu Ma	Yi Zhang
+Theophane Weber	Adrià Puigdomènech Badia
+Theophane Weber	Arthur Guez
+Theophane Weber	Daan Wierstra
+Theophane Weber	Danilo Jimenez Rezende
+Theophane Weber	David P. Reichert
+Theophane Weber	David Silver
+Theophane Weber	Demis Hassabis
+Theophane Weber	Karen Simonyan
+Theophane Weber	Lars Buesing
+Theophane Weber	Oriol Vinyals
+Theophane Weber	Peter Battaglia
+Theophane Weber	Razvan Pascanu
+Theophane Weber	Rémi Munos
+Theophane Weber	Yujia Li
+Thodoris Lykouris	Sergei Vassilvitskii
+Thomas Bonald	Richard Combes
+Thomas G. Dietterich	Alan Fern
+Thomas G. Dietterich	Zhitang Chen
+Thomas Unterthiner	Bernhard Nessler
+Thomas Unterthiner	Nikolay Jetchev
+Tianlin Shi	Andrej Karpathy
+Tianlin Shi	Linxi Fan
+Tianlin Shi	Percy Liang
+Tim Harley	David P. Reichert
+Tim Harley	Thomas Degris
+Tim Lillicrap	Bernhard Schölkopf
+Tim Lillicrap	Richard E. Turner
+Tim Lillicrap	Sergey Levine
+Tim Lillicrap	Zoubin Ghahramani
+Tim Roughgarden	Okke Schrijvers
+Timothy P. Lillicrap	Nando de Freitas
+Toby Hocking	François Laviolette
+Tolga Bolukbasi	Joseph Wang 0001
+Tolga Bolukbasi	Ofer Dekel
+Tom Rainforth	Chris J. Maddison
+Tom Rainforth	Yee Whye Teh
+Tom Schaul	Arthur Guez
+Tom Schaul	Daniel J. Mankowitz
+Tom Schaul	David P. Reichert
+Tom Schaul	Hado P. van Hasselt
+Tom Schaul	Koray Kavukcuoglu
+Tom Schaul	Max Jaderberg
+Tom Schaul	Nicolas Heess
+Tom Schaul	Thomas Degris
+Tom Schaul	Tim Harley
+Tom Zahavy	Aviv Tamar
+Tom Zahavy	Daniel J. Mankowitz
+Tomer Koren	Kunal Talwar
+Tomer Koren	Yoram Singer
+Tong Zhang	Ian D. Reid 0001
+Tong Zhang	Mathieu Salzmann
+Tong Zhang	Tuo Zhao
+Tong Zhang 0001	Junzhou Huang
+Tongliang Liu	Gergely Neu
+Tongliang Liu	Gábor Lugosi
+Tor Lattimore	Emma Brunskill
+Travis Dick	Ellen Vitercik
+Travis Dick	Hongyang Zhang 0001
+Travis Dick	Tuomas Sandholm
+Travis Dick	Yingyu Liang
+Trevor Darrell	Alexei A. Efros
+Tuan Anh Le	Chris J. Maddison
+Tuan Anh Le	Shimon Whiteson
+Tuan Anh Le	Yee Whye Teh
+Tuo Zhao	Le Song
+Tzu-Kuo Huang	Hal Daumé III
+Umut Simsekli	Alexandre Gramfort
+Uri Shalit	Joris M. Mooij
+Uri Shalit	Max Welling
+Uri Shalit	Richard S. Zemel
+Urs Köster	Xin Wang
+Veeranjaneyulu Sadhanala	James Sharpnack
+Vikas Sindhwani	Adrian Weller
+Vikas Sindhwani	Richard E. Turner
+Vinayak Rao	Jennifer Neville
+Virginia Smith	Ameet S. Talwalkar
+Vladlen Koltun	Lorenzo Torresani
+Volodymyr Kuleshov	Stefano Ermon
+Vu Nguyen 0001	Svetha Venkatesh
+Wei Chen 0034	Liwei Wang 0001
+Wei Chen 0034	Nenghai Yu
+Wei Chen 0034	Tao Qin
+Wei Hu	Yuanzhi Li
+Wei Ping	Jonathan Raiman
+Wei Wu	Eric P. Xing
+Weidong Cai	Dinggang Shen
+Weihao Kong	Gregory Valiant
+Weiyang Liu	Bo Dai
+Weiyang Liu	James M. Rehg
+Weiyang Liu	Le Song
+Weiyang Liu	Tuo Zhao
+Weiyang Liu	Xingguo Li
+Wen Sun 0002	Geoffrey J. Gordon
+Wen Sun 0002	Martial Hebert
+Wenling Shang	C. Lawrence Zitnick
+Wesley Tansey	David M. Blei
+William L. Hamilton	Jure Leskovec
+Wittawat Jitkrittum	Kenji Fukumizu
+Wojciech Kotlowski	Alan Malek
+Wojciech Kotlowski	Nagarajan Natarajan
+Wojciech Kotlowski	Oluwasanmi Koyejo
+Wray L. Buntine	Mingyuan Zhou
+Wulfram Gerstner	Johanni Brea
+Xaq Pitkow	Raquel Urtasun
+Xaq Pitkow	Richard S. Zemel
+Xi Chen	Qin Zhang 0001
+Xiangru Huang	Qixing Huang
+Xiangru Lian	Ce Zhang
+Xiao Fu 0001	Mingyi Hong
+Xiao-Tong Yuan	Dimitris N. Metaxas
+Xiaodan Liang	Eric P. Xing
+Xiaodan Liang	Jun Zhu 0001
+Xiaodan Liang	Ruslan Salakhutdinov
+Xiaofei He	Jie Wang
+Xiaohui Shen	Jiashi Feng
+Xiaohui Shen	Jimei Yang
+Xiaohui Shen	Shuicheng Yan
+Xiaohui Shen	Zequn Jie
+Xiaojie Jin	Jianchao Yang
+Xiaojie Jin	Jimei Yang
+Xiaojie Jin	Nebojsa Jojic
+Xiaojie Jin	Xiaohui Shen
+Xiaojie Jin	Yingzhen Yang
+Xiaojing Ye	Huan Xu
+Xiaojing Ye	Junchi Yan
+Xiaojing Ye	Rakshit Trivedi
+Xiaojing Ye	Shuang Li 0002
+Xiaoxiao Guo	Thomas S. Huang
+Xingguo Li	Bo Dai
+Xingguo Li	David P. Woodruff
+Xingguo Li	James M. Rehg
+Xingguo Li	Le Song
+Xingguo Li	Lin Yang
+Xingguo Li	Tong Zhang
+Xinhua Zhang	Brian D. Ziebart
+Xiuyuan Cheng	A. Robert Calderbank
+Xiuyuan Cheng	Guillermo Sapiro
+Xu Jia	Bernt Schiele
+XuanLong Nguyen	Dinh Q. Phung
+Yacine Jernite	Anna Choromanska
+Yan Duan	Jonathan Ho
+Yan Duan	Marcin Andrychowicz
+Yan Duan	Wojciech Zaremba
+Yanan Sui	Yisong Yue
+Yang Song	Jiaming Song
+Yang Song	Stefano Ermon
+Yann Dauphin	Nicolas Usunier
+Yann N. Dauphin	David Grangier
+Yao Ma	Csaba Szepesvári
+Yao Ma	Venkatesh Saligrama
+Yaoliang Yu	James Zou
+Yaron Singer	Vasilis Syrgkanis
+Yaroslav Ganin	Aaron C. Courville
+Yaroslav Ganin	Oriol Vinyals
+Yaroslav Ganin	S. M. Ali Eslami
+Yaroslav Ganin	Yoshua Bengio
+Yash Deshpande	Lester W. Mackey
+Yash Deshpande	Vasilis Syrgkanis
+Yasin Abbasi-Yadkori	Victor Gabillon
+Yee Whye Teh	Danilo Jimenez Rezende
+Yee Whye Teh	James Kirkpatrick
+Yee Whye Teh	Razvan Pascanu
+Yee Whye Teh	S. M. Ali Eslami
+Yee Whye Teh	Simon Osindero
+Yi Wang	Yew-Soon Ong
+Yi Wu	Igor Mordatch
+Yi Wu	Nicholas Hay
+Yi Wu	Stuart J. Russell
+Yi Xu	Enhong Chen
+Yi Zhou	Eric P. Xing
+Yi Zhou	James Zou
+Yi Zhou	Pramod K. Varshney
+Yi Zhou	Yaoliang Yu
+Yi-An Ma	Michael I. Jordan
+Yi-An Ma	Nicholas J. Foti
+Yi-An Ma	Peter L. Bartlett
+Yichen Wang	Evangelos Theodorou
+Yichen Wang	Xiaojing Ye
+Yiming Yang	Barnabás Póczos
+Yin Tat Lee	Laurent Massoulié
+Yingbin Liang	Pramod K. Varshney
+Yingce Xia	Wei Chen 0034
+Yingyu Liang	Hongyang Zhang 0001
+Yingyu Liang	Tengyu Ma
+Yingyu Liang	Yi Zhang
+Yingzhen Li	Stephan Mandt
+Yingzhen Li	Yarin Gal
+Yingzhen Yang	Jianchao Yang
+Yingzhen Yang	Jiashi Feng
+Yingzhen Yang	Nebojsa Jojic
+Yining Wang	Dengyong Zhou
+Yining Wang	Li Deng 0001
+Yining Wang	Po-Sen Huang
+Yishay Mansour	Amir Yehudayoff
+Yishay Mansour	Kunal Talwar
+Yishay Mansour	Shay Moran
+Yishu Miao	Edward Grefenstette
+Yisong Yue	Hal Daumé III
+Yisong Yue	Patrick Lucey
+Yisong Yue	Stephan Mandt
+Yizhe Zhang	Zhe Gan
+Yoav Goldberg	Chris Dyer
+Yonina C. Eldar	John Wright
+Yoshua Bengio	Joelle Pineau
+Yoshua Bengio	Laurent Charlin
+Yoshua Bengio	Simon Lacoste-Julien
+Yu Cheng	Barnabás Póczos
+Yu Cheng	Yiming Yang
+Yu Liu	Jianshu Chen
+Yu Liu	Li Deng 0001
+Yu-Xiang Wang	Alekh Agarwal
+Yu-Xiang Wang	Animashree Anandkumar
+Yu-Xiang Wang	James Sharpnack
+Yu-Xiang Wang	Miroslav Dudík
+Yu-Xiong Wang	Deva Ramanan
+Yuanzhi Li	Aarti Singh
+Yuanzhi Li	Yang Yuan
+Yuanzhi Li	Yining Wang
+Yuanzhi Li	Yoram Singer
+Yuchen Zhang	Percy Liang
+Yudong Chen	Kannan Ramchandran
+Yue Wang	Zhangyang Wang
+Yuexin Wu	Yiming Yang
+Yuhuai Wu	David K. Duvenaud
+Yuhuai Wu	Elman Mansimov
+Yuhuai Wu	Jimmy Ba
+Yuhuai Wu	Roger B. Grosse
+Yujia Li	Alexander G. Schwing
+Yujia Li	Daan Wierstra
+Yujia Li	David Silver
+Yujia Li	Demis Hassabis
+Yujia Li	Peter Battaglia
+Yujia Li	Razvan Pascanu
+Yunchen Pu	Shaobo Han
+Yunchen Pu	Yizhe Zhang
+Yung-Kyun Noh	Kee-Eung Kim
+Yung-Kyun Noh	Masashi Sugiyama
+Yunpeng Pan	Byron Boots
+Yury Ustinovskiy	Maarten de Rijke
+Yusu Wang	Chao Chen
+Yusuke Muraoka	Lawrence Carin
+Yutian Chen	Matthew Botvinick
+Yutian Chen	Matthew W. Hoffman
+Yutian Chen	Misha Denil
+Yutian Chen	Nando de Freitas
+Yutian Chen	Sergio Gomez Colmenarejo
+Yutian Chen	Timothy P. Lillicrap
+Yuxuan Wang	Eric Battenberg
+Yuxuan Wang	Ron J. Weiss
+Zhao Song	Cho-Jui Hsieh
+Zhao Song	Inderjit S. Dhillon
+Zhao Song	Peter L. Bartlett
+Zhao Song	Prateek Jain 0002
+Zhao Song	Ryohei Fujimaki
+Zhao Song	Yusuke Muraoka
+Zhe Gan	Kai Fan
+Zhe Gan	Shaobo Han
+Zhe Gan	Yizhe Zhang
+Zheng Wen	Michal Valko
+Zheng Wen	Mohammad Ghavamzadeh
+Zheng Xu 0002	Christoph Studer
+Zheng Xu 0002	Mário A. T. Figueiredo
+Zheng Xu 0002	Xiaoming Yuan
+Zhengyuan Zhou	Claire Tomlin
+Zhengyuan Zhou	Li-Jia Li
+Zhengyuan Zhou	Stephen P. Boyd
+Zhenwen Dai	Andreas C. Damianou
+Zhenwen Dai	Mauricio A. Álvarez
+Zhenwen Dai	Neil D. Lawrence
+Zhilin Yang	Fan Yang
+Zhiting Hu	Taylor Berg-Kirkpatrick
+Zhiting Hu	Xiaodan Liang
+Zhiwei Steven Wu	Vasilis Syrgkanis
+Zhouhan Lin	Joelle Pineau
+Zhouhan Lin	Laurent Charlin
+Zhuoran Yang	Krishnakumar Balasubramanian
+Zi Wang	Chengtao Li
+Zi Wang	Pushmeet Kohli
+Zi Wang	Stefanie Jegelka
+Ziyu Wang 0001	Gregory Wayne
+Ziyu Wang 0001	Josh S. Merel
+Ziyu Wang 0001	Nicolas Heess
+Ziyu Wang 0001	Scott E. Reed
+Ziyu Wang 0001	Yutian Chen
+Zohar S. Karnin	Dávid Pál
+Zoltán Szabó 0001	Kenji Fukumizu
+Zoubin Ghahramani	Adrian Weller
+Zoubin Ghahramani	Lancelot F. James
+Zoubin Ghahramani	Sergey Levine
+Zoubin Ghahramani	Seungjin Choi
+Ürün Dogan	Clayton Scott
