@@ -1,0 +1,8 @@
+f1) 
+ Common Friends - Average score of accuracy: 0.06734920046518628
+ jaccard index - average score of overall accuracy: 0.0502155346520294
+ adamic index - average score of overall accuracy: 0.0675579020264892
+f2) 
+ common friends - average score of overall accuracy: 98.8559670781893 
+ jaccard index - average score of overall accuracy: 106.12345679012346
+ adamic index - average score of overall accuracy: 96.07818930041152
