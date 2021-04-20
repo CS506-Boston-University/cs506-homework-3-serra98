@@ -1,0 +1,13 @@
+- Create the graph using NetworkX using file 'old_edges.txt'. (3/3)
+- Read 'new_edges.txt' and for each author keep new collaborations in 2017-2018. (3/3)
+- Recommend by number of common friends (5/5): result isn't only those with 10+ connections
+- Recommend using Jaccard's Index (5/5): result isn't only those with 10+ connections
+- Recommend using Adamic/Adar Index (5/5): result isn't only those with 10+ connections
+- Evaluate recommendations using the top10 accuracy (2/2) 
+- Evaluate recommendations using the rank of formed collaboration (2/2)
+
+-- Bonus question (-/2) 
+
+Total: 25/25
+
+To submit a regrade request, please email rehap98@bu.edu.
